@@ -16,7 +16,7 @@
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://github.com/ShaAnder/CapstoneTurtleSnake/graphs/comMIT-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg" />
+    <img alt="Maintenance" src="https://img.shields.io/badge/maintained-no-red.svg" />
   </a>
   <a href="https://github.com/ShaAnder/CapstoneTurtleSnake/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
