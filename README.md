@@ -8,7 +8,7 @@
 <img src="https://github.com/ShaAnder/CapstoneTurtleSnake/assets/129494996/b8951174-9590-4d9a-97ab-a2ea408f3575" alt="project image" height="250px">
     
 <p align="center">
-  <img src="https://img.shields.io/badge/version-2.0.0-blue.svg?cacheSeconds=2592000" />
+  <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="" target="_blank">
     <img alt="Demo" src="https://img.shields.io/badge/demo-offline-red.svg" />
   </a>
