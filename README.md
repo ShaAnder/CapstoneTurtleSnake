@@ -2,10 +2,10 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="120%">
     
-<h1  align="center">Blackjack</h1>
+<h1  align="center">Snake</h1>
 
 <p  align="center">
-<img src="https://github.com/ShaAnder/CapstoneTurtleSnake/assets/129494996/095f28ff-09eb-446d-9113-3b1dfeedb5f2" alt="project image">
+<img src="https://github.com/ShaAnder/CapstoneTurtleSnake/assets/129494996/b8951174-9590-4d9a-97ab-a2ea408f3575" alt="project image" height="250px">
     
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0.0-blue.svg?cacheSeconds=2592000" />
