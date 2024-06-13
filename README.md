@@ -9,8 +9,8 @@
     
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://CapstoneTurtleSnake-shaander.netlify.app" target="_blank">
-    <img alt="Demo" src="https://img.shields.io/badge/demo-online-green.svg" />
+  <a href="" target="_blank">
+    <img alt="Demo" src="https://img.shields.io/badge/demo-offline-red.svg" />
   </a>
   <a href="https://github.com/ShaAnder/CapstoneTurtleSnake#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
